@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning flutter framework.
 - 💞️ I’m looking to collaborate on flutter development.
 - 📫 How to reach me : gmail-asmitwrites@gmail.com
-                       twitter- Theasmitgupta
+
+Connect with me:
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 <!---
 asmit-gupta/asmit-gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
