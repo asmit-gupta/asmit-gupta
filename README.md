@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning flutter framework.
 - 💞️ I’m looking to collaborate on flutter development.
 - 📫 How to reach me : gmail-asmitwrites@gmail.com
-
+<!-- 
 Connect with me:
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] -->
 
 
 <!---
