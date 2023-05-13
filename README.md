@@ -1,10 +1,10 @@
 <!-- [[![MasterHead](https://drive.google.com/file/d/1B7AyyJO8kvgZRiRWKfynB9CIa1G1Qk5T/view?usp=sharing)](www.linkedin.com/in/theasmitgupta)] -->
 <h1 align="center">Hi 👋, I'm Asmit Gupta</h1>
-<h3 align="center">A passionate mobile app developer from India!</h3>
+<h3 align="center">A passionate app developer from India!</h3>
 <hr>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **FakeEnd Project (AI based backend tester)**
+- 🔭 I’m currently working on **FakeEnd Project (Autonomous API and backend tester)**
 
 - 🌱 I’m currently learning **NodeJS**
 
